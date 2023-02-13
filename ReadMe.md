@@ -1,4 +1,4 @@
-#Summary Report - Technology implementation
+Summary Report - Technology implementation
 
 In this project, I implemented the technology of ASP.Net Core version 6.0. I designed the database in SQL server, which was the key element to sustain the relationships between all the entities created on this application and to keep the traceability of information and a comprehensive functionality between all modules proposed.
 I based the development of my application on the following technologies:
